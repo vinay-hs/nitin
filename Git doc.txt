@@ -5,5 +5,9 @@ staging branch   new vinay
 
 new stating
 
+<<<<<<< HEAD
 
 checking merge
+=======
+vinay handsome threesome
+>>>>>>> e0796a21123ab79e339c677cef06b1e663828929
